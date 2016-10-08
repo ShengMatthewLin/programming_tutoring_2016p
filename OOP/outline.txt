@@ -1,0 +1,24 @@
+1. A quick example: option pricing with procedural oriented code
+2. Issues with the procedural oriented code
+3. What is object oriented programming?
+    a. bond pricing
+4. Features:
+    a. abstraction
+    b. encapsulation
+    c. polymorphism
+    d. inheritance
+5. Alternative OOP implementation
+6. Further improvements
+    a. new security types
+    b. duplicated codes for the solver
+    c. classes with too many parameters for the constructor
+    d. global configuration and logger
+7. Design patterns
+    a. singleton
+    b. builder
+    c. factory
+8. Extend this example to a more complicated system
+    a. handle different types of securities (inheritance)
+    b. compute nav, risks and other analytics on the portfolio level (polymorphism)
+    c. loader and feeder for market and economy data (abstraction and encapsulation)
+    d. math utility functions: solver, optimizer, integrator (reusability)
