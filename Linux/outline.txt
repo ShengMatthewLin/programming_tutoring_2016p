@@ -1,0 +1,40 @@
+1. Linux vs. Windows
+   + Linux servers: Stability, Security, Open-source, Cost, History
+   + Programmer friendly: Powerful shells
+1. Terminal and Shell. echo $0
+   * bash
+   * tcsh
+   * ksh
+1. navigation and basic file operation
+   + ls
+   + cd
+   + pwd
+   + cp
+   + mv
+   + rm
+   + mkdir
+1. options
+1. frequently used commands
+   + echo
+   + less
+   + cat
+   + grep
+   + find
+   + top and ps
+   + clear
+   + head/tail
+   + touch
+   + sudo
+   + tar
+   + cut
+   + history
+   + diff and kdiff3
+1. permissions
+   + chmod
+1. more on grep: -v and -c
+1. regular expression
+   + [http://www.troubleshooters.com/codecorn/littperl/perlreg.htm](http://www.troubleshooters.com/codecorn/littperl/perlreg.htm)
+1. stream
+1. pipe
+1. environment variables
+1. text editors
