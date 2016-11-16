@@ -1,0 +1,14 @@
+1. The compilation process
+![C++ Compilation](/home/shawn/dev/workspace/programming_tutoring_2016/GCC/cpp_compilation.png)
+1. Compile a simple program
+1. Compile a more complicated program
+1. common switches
+   * -o
+   * -c
+   * -g
+   * -O
+   * --std
+   * -I
+   * -L
+1. Compile a program with libraries
+1. The use of make

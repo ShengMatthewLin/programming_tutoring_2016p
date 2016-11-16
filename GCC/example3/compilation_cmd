@@ -1,0 +1,1 @@
+g++ -o main -Iinclude src/main.cpp

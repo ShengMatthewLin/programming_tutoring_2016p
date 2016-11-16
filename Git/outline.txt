@@ -1,0 +1,14 @@
+1. What is git and what is github?
+1. Basic operations
+   * create repo
+   * git clone
+   * modify - commit and push
+   * update - pull, fetch and merge
+1. Advanced operations (https://github.com/programming-tutor/github-games)
+   * fork
+   * branch
+   * pull request
+   * merge between branches
+   * revert a commit
+   * conflict and how to resolve it
+   * reset

@@ -1,0 +1,5 @@
+g++ --std=c++11 -Ilib/include -c -o lib/src/libmisc/GradeBook.o lib/src/libmisc/GradeBook.cpp
+ar -cvq libmisc.a lib/src/libmisc/GradeBook.o
+g++ --std=c++11 -Iinclude -Ilib/include -c -o src/Student.o src/Student.cpp
+g++ --std=c++11 -Iinclude -Ilib/include -c -o src/main.o src/main.cpp
+g++ -o main src/main.o src/Student.o -L. -lmisc
